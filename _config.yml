@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+highlighter: pygments
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -11,7 +11,7 @@ pygments: true
 title : 猩猩工作室
 tagline: 猩猩一般的创造力
 author :
-  name : Trowa Barton
+  name : ApeWorks
   email : blah@email.test
   github : apeworkshub
   twitter : username
